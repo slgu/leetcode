@@ -1,14 +1,12 @@
+import util.ListNode;
+import util.ListUtil;
 import java.util.ArrayList;
 import java.util.List;
 
 /**
  * Created by gsl on 7/3/15.
  */
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) { val = x; }
-}
+import util.ListNode;
 public class Solution24 {
     public ListNode swapPairs(ListNode head) {
         if(head == null || head.next == null)

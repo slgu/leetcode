@@ -1,3 +1,5 @@
+import util.ListNode;
+import util.ListUtil;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
@@ -6,14 +8,6 @@ import java.util.PriorityQueue;
 /**
  * Created by gsl on 7/3/15.
  */
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) {
-        val = x;
-        next = null;
-    }
-}
 public class Solution23 {
     public ListNode mergeKLists(ListNode[] lists) {
         if(lists == null || lists.length == 0)

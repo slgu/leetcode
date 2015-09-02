@@ -3,6 +3,7 @@ package util;/**
  */
 
 import java.util.*;
+import java.util.concurrent.SynchronousQueue;
 
 public class ArrayUtil {
     public static <T> void printarr (T [][] matrix){
@@ -20,6 +21,13 @@ public class ArrayUtil {
             }
             System.out.println("");
         }
+    }
+    public static void printlineararr(int [] arr){
+        for(int i = 0; i < arr.length; ++i){
+            System.out.print(arr[i]);
+            System.out.print(' ');
+        }
+        System.out.println("");
     }
     public static void printarr (int [][] matrix){
         System.out.println("begin print matrix");
