@@ -7,7 +7,6 @@ import java.util.LinkedList;
 /**
  * Created by slgu1 on 9/1/15.
  */
-//TODO write in blog same as 84
 public class Solution85 {
     public static class Item {
         public int val;

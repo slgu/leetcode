@@ -5,7 +5,6 @@ import util.StringUtil;
 /**
  * Created by slgu1 on 8/31/15.
  */
-//TODO WRITE IN BLOG
 //will deprecate to 0(n)
 public class Solution81 {
     public int judge(int left, int right){

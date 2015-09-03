@@ -1,7 +1,6 @@
 /**
  * Created by slgu1 on 9/2/15.
  */
-//TODO write in blog
 //记忆化DP加cut
 public class Solution87 {
     private int scramble(int x1, int x2, int k){

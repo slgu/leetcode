@@ -7,7 +7,6 @@ import java.util.stream.StreamSupport;
 /**
  * Created by slgu1 on 9/1/15.
  */
-//TODO write in blog
 public class Solution84 {
     public static class Item {
         public int val;
