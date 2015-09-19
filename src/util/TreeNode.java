@@ -5,10 +5,38 @@ package util;
  */
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Queue;
+
 public class TreeNode {
     public int val;
     public TreeNode left = null;
     public TreeNode right = null;
+    public static void debug(TreeNode root){
+        Queue <TreeNode> queue = new LinkedList<TreeNode>();
+        queue.add(null);
+        queue.add(root);
+        while (!queue.isEmpty()) {
+            TreeNode node = queue.poll();
+            if (node == null) {
+                TreeNode nextnode = queue.peek();
+                if (nextnode == null) {
+                    break;
+                }
+                else {
+                    System.out.println("");
+                    queue.add(null);
+                    continue;
+                }
+            }
+            //debug
+            System.out.print(node.val);
+            System.out.print(' ');
+            if (node.left != null)
+                queue.add(node.left);
+            if (node.right != null)
+                queue.add(node.right);
+        }
+    }
     public static List<Integer> inorderTraversal(TreeNode root){
         if(root == null)
             return new LinkedList<Integer>();
