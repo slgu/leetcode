@@ -3,7 +3,6 @@ import util.TreeLinkNode;
 /**
  * Created by slgu1 on 9/5/15.
  */
-//TODO write in blog
 public class Solution117 {
     public void connect(TreeLinkNode root) {
         TreeLinkNode father = null;

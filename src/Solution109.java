@@ -3,7 +3,6 @@
  */
 import util.TreeNode;
 import util.ListNode;
-// TODO write in blog
 public class Solution109 {
     public TreeNode sortedListToBST(ListNode head) {
         int l = getLength(head);

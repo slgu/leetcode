@@ -2,7 +2,6 @@
  * Created by slgu1 on 9/16/15.
  */
 
-//TODO write in blog
 import java.util.*;
 import java.util.concurrent.LinkedBlockingDeque;
 

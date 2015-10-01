@@ -1,6 +1,7 @@
 /**
  * Created by slgu1 on 9/5/15.
  */
+package test;
 class B implements Cloneable{
     int c = 4;
     @Override

@@ -3,7 +3,6 @@ import java.util.Queue;
 /**
  * Created by slgu1 on 9/15/15.
  */
-//TODO write in blog
 import util.TreeNode;
 import java.util.List;
 public class Solution103 {
