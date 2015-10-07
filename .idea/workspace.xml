@@ -7,41 +7,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8d3472d-7349-447c-bc58-f889fcc821d2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/RandomListNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution114.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution120.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution120_2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution133.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution134.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution135.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution136.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution137.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution138.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution138_2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution140.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution207.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution207_2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution208.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution210.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution260.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Test2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Test3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/UndirectedGraphNode.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/A.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/B.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Test.java" afterPath="$PROJECT_DIR$/src/test/Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/Solution103.class" afterPath="$PROJECT_DIR$/out/production/leetcode/Solution103.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/Solution109.class" afterPath="$PROJECT_DIR$/out/production/leetcode/Solution109.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/Solution113.class" afterPath="$PROJECT_DIR$/out/production/leetcode/Solution113.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/Solution117.class" afterPath="$PROJECT_DIR$/out/production/leetcode/Solution117.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/Solution126.class" afterPath="$PROJECT_DIR$/out/production/leetcode/Solution126.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Solution103.java" afterPath="$PROJECT_DIR$/src/Solution103.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Solution109.java" afterPath="$PROJECT_DIR$/src/Solution109.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Solution117.java" afterPath="$PROJECT_DIR$/src/Solution117.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Solution126.java" afterPath="$PROJECT_DIR$/src/Solution126.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution141.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution142.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution143.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution144.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution145.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution148.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution149.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution150.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -64,7 +38,129 @@
     <favorites_list name="leetcode" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Solution143.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution143.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution144.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution144.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution145.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution145.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution147.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution147.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution148.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution148.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution149.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution149.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#413#430#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution150.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solution150.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.56884056">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="e#180#189#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Point.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/util/Point.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/util/ListUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution207.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution207.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="35" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -84,16 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution93.java" />
-        <option value="$PROJECT_DIR$/src/Solution115.java" />
-        <option value="$PROJECT_DIR$/src/Solution94.java" />
-        <option value="$PROJECT_DIR$/src/Solution95.java" />
-        <option value="$PROJECT_DIR$/src/Solution96.java" />
-        <option value="$PROJECT_DIR$/src/Solution97.java" />
-        <option value="$PROJECT_DIR$/src/Solution98.java" />
-        <option value="$PROJECT_DIR$/src/Solution99.java" />
-        <option value="$PROJECT_DIR$/src/Solution100.java" />
-        <option value="$PROJECT_DIR$/src/Solution99_2.java" />
         <option value="$PROJECT_DIR$/src/Test.java" />
         <option value="$PROJECT_DIR$/src/util/TreeLinkNode.java" />
         <option value="$PROJECT_DIR$/src/Solution116.java" />
@@ -135,6 +221,16 @@
         <option value="$PROJECT_DIR$/src/Solution139.java" />
         <option value="$PROJECT_DIR$/src/Solution140.java" />
         <option value="$PROJECT_DIR$/src/Solution138_2.java" />
+        <option value="$PROJECT_DIR$/src/Solution141.java" />
+        <option value="$PROJECT_DIR$/src/Solution142.java" />
+        <option value="$PROJECT_DIR$/src/Solution143.java" />
+        <option value="$PROJECT_DIR$/src/Solution144.java" />
+        <option value="$PROJECT_DIR$/src/Solution145.java" />
+        <option value="$PROJECT_DIR$/src/Solution147.java" />
+        <option value="$PROJECT_DIR$/src/Solution148.java" />
+        <option value="$PROJECT_DIR$/src/util/Point.java" />
+        <option value="$PROJECT_DIR$/src/Solution149.java" />
+        <option value="$PROJECT_DIR$/src/Solution150.java" />
       </list>
     </option>
   </component>
@@ -153,7 +249,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1440" />
+    <option name="x" value="1440" />
+    <option name="width" value="1600" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -179,6 +276,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -249,9 +347,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -267,10 +364,10 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Solution140">
-    <configuration default="false" name="Solution210" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Solution150">
+    <configuration default="false" name="Solution143" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Solution210" />
+      <option name="MAIN_CLASS_NAME" value="Solution143" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -283,9 +380,9 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Solution135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Solution147" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Solution135" />
+      <option name="MAIN_CLASS_NAME" value="Solution147" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -298,14 +395,9 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="test.Test3" />
+    <configuration default="false" name="Solution148" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Solution148" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -318,9 +410,9 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Solution139" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Solution149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Solution139" />
+      <option name="MAIN_CLASS_NAME" value="Solution149" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -333,9 +425,9 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Solution140" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Solution150" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Solution140" />
+      <option name="MAIN_CLASS_NAME" value="Solution150" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -644,19 +736,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Solution81" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Solution210" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Solution135" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Test3" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Solution139" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Solution140" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Solution143" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Solution147" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Solution148" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Solution149" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Solution150" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Solution140" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Solution139" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Test3" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Solution135" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Solution210" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Solution150" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Solution149" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Solution148" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Solution147" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Solution143" />
       </list>
     </recent_temporary>
   </component>
@@ -715,11 +807,15 @@
       <workItem from="1443041782233" duration="8000" />
       <workItem from="1443648883498" duration="4776000" />
       <workItem from="1443726951725" duration="10000" />
+      <workItem from="1443805800478" duration="3462000" />
+      <workItem from="1444098625556" duration="3953000" />
+      <workItem from="1444169304944" duration="460000" />
+      <workItem from="1444183165020" duration="3000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111714000" />
+    <option name="totallyTimeSpent" value="122589000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -731,33 +827,33 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="1440" y="0" width="1600" height="900" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31840795" sideWeight="0.48855507" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31761786" sideWeight="0.48569384" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32587063" sideWeight="0.44094995" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.077114426" sideWeight="0.565093" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27860695" sideWeight="0.5795892" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287841" sideWeight="0.48855507" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32711443" sideWeight="0.4828326" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287841" sideWeight="0.48569384" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27860695" sideWeight="0.42041078" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32630274" sideWeight="0.47138768" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1881259" sideWeight="0.48725638" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16880617" sideWeight="0.48067227" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18884121" sideWeight="0.51274365" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1881259" sideWeight="0.51932776" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39976552" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32587063" sideWeight="0.45422032" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.077114426" sideWeight="0.43490702" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282532" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39976552" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -807,87 +903,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution103.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution105.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution132.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution132.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="657" column="0" selection-start-line="657" selection-start-column="0" selection-end-line="657" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution132.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution105.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/127.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution127.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution129.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/util/TreeLinkNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/util/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -930,13 +949,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/util/ListUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1045,13 +1057,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution207.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="35" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution208.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1140,10 +1145,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41316527">
           <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1151,10 +1152,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1162,7 +1159,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5042017">
           <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1170,9 +1166,128 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.42016807">
           <caret line="39" column="52" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution141.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution142.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution143.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution144.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution145.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/ListUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution207.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution147.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution148.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution149.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#413#430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution150.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.56884056">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#180#189#0" expanded="true" />
           </folding>
         </state>
       </provider>
