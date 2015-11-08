@@ -4,7 +4,6 @@ import java.util.LinkedList;
 /**
  * Created by slgu1 on 10/13/15.
  */
-//TODO write in the blog
 //bucket sort
 public class Solution164 {
     public int maximumGap(int[] nums) {

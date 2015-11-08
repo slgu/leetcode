@@ -1,7 +1,6 @@
 /**
  * Created by slgu1 on 9/22/15.
  */
-//TODO write in blog
 public class Solution134 {
     public int canCompleteCircuit(int[] gas, int[] cost) {
         int idx = 0;

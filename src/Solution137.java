@@ -1,7 +1,6 @@
 /**
  * Created by slgu1 on 9/23/15.
  */
-//TODO write in the blog
 // http://www.cnblogs.com/yanliang12138/p/4536189.html
 public class Solution137 {
     public int singleNumber(int[] nums) {

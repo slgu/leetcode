@@ -1,7 +1,6 @@
 /**
  * Created by slgu1 on 9/4/15.
  */
-//TODO write in blog
 import util.TreeNode;
 
 import java.util.HashMap;

@@ -1,7 +1,6 @@
 /**
  * Created by slgu1 on 9/30/15.
  */
-//TODO write in the blog
 import util.ArrayUtil;
 import util.RandomListNode;
 

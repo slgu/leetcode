@@ -1,7 +1,6 @@
 /**
  * Created by slgu1 on 9/23/15.
  */
-//TODO write in blog
 public class Solution260 {
     public int[] singleNumber(int[] nums) {
         int res = 0;

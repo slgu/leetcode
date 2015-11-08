@@ -4,7 +4,6 @@ import java.util.LinkedList;
 /**
  * Created by slgu1 on 9/22/15.
  */
-//TODO write in the blog
 public class Solution135 {
     public int candy(int[] ratings) {
         int n = ratings.length;

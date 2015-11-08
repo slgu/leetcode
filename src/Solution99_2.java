@@ -3,7 +3,6 @@
  */
 //based on morris 0(1) space inorder-traverse
 
-//TODO write in blog
 import util.TreeNode;
 public class Solution99_2 {
     public void recoverTree(TreeNode root) {

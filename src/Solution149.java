@@ -3,7 +3,6 @@
  */
 import util.Point;
 
-//TODO write in blog int / int needs 1.0!!!!
 import java.util.HashMap;
 import java.util.Map;
 
@@ -30,7 +29,7 @@ public class Solution149 {
                     ++x_straight;
                 else {
                     double skew = 1.0 * (points[j].y - points[i].y) / (points[j].x - points[i].x);
-                    //TODO 0.0 and -0.0 problem
+                    // 0.0 and -0.0 problem
                     if (skew == -0.0)
                         skew = 0.0;
                     if (mp.containsKey(skew)) {

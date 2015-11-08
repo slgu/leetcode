@@ -17,6 +17,8 @@ public class ListUtil {
         System.out.println("");
     }
     public static ListNode makelist(int [] arr){
+        if (arr.length == 0)
+            return null;
         ListNode head = new ListNode(arr[0]);
         head.next = null;
         ListNode idx = head;

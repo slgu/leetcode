@@ -9,7 +9,6 @@ public class Solution143 {
     private ListNode reverse(ListNode head) {
         ListNode itr = head.next;
         ListNode itrlast = head;
-        //IMPORTANT TODO
         itrlast.next = null;
         ListNode itrnext = null;
         while (itr != null) {

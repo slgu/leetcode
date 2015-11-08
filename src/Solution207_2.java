@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
-//TODO write in blog
 /**
  * Created by slgu1 on 9/21/15.
  */
